@@ -1,0 +1,2 @@
+class Rategroup < ApplicationRecord
+end
